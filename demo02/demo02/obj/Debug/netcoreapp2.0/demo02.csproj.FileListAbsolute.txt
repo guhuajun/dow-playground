@@ -1,0 +1,10 @@
+C:\Users\greggu\repos\dow-playground\demo02\demo02\bin\Debug\netcoreapp2.0\demo02.deps.json
+C:\Users\greggu\repos\dow-playground\demo02\demo02\bin\Debug\netcoreapp2.0\demo02.runtimeconfig.json
+C:\Users\greggu\repos\dow-playground\demo02\demo02\bin\Debug\netcoreapp2.0\demo02.runtimeconfig.dev.json
+C:\Users\greggu\repos\dow-playground\demo02\demo02\bin\Debug\netcoreapp2.0\demo02.dll
+C:\Users\greggu\repos\dow-playground\demo02\demo02\bin\Debug\netcoreapp2.0\demo02.pdb
+C:\Users\greggu\repos\dow-playground\demo02\demo02\obj\Debug\netcoreapp2.0\demo02.csproj.CoreCompileInputs.cache
+C:\Users\greggu\repos\dow-playground\demo02\demo02\obj\Debug\netcoreapp2.0\demo02.AssemblyInfoInputs.cache
+C:\Users\greggu\repos\dow-playground\demo02\demo02\obj\Debug\netcoreapp2.0\demo02.AssemblyInfo.cs
+C:\Users\greggu\repos\dow-playground\demo02\demo02\obj\Debug\netcoreapp2.0\demo02.dll
+C:\Users\greggu\repos\dow-playground\demo02\demo02\obj\Debug\netcoreapp2.0\demo02.pdb
