@@ -1,0 +1,6 @@
+FROM microsoft/dotnet:runtime
+
+COPY demo02/bin/Debug/netcoreapp2.0/publish c:/apps/demo02/
+
+WORKDIR c:/apps/demo02/
+CMD ["dotnet", "demo02.dll"]
