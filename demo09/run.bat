@@ -1,0 +1,1 @@
+docker run -d --rm --name demo09 greggu/demo09

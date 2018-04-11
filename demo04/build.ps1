@@ -1,1 +1,1 @@
-docker image build  --tag greggu/demo04 .
+docker image build --tag greggu/demo04 .
