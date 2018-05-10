@@ -1,0 +1,1 @@
+docker build --rm --network External --tag greggu/sysinternals:20170516 .

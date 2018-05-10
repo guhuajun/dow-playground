@@ -1,0 +1,1 @@
+docker run --rm -d --name tomcat -p 8080:8080 demo14:0.0.1

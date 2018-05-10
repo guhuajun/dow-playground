@@ -1,0 +1,1 @@
+docker run --rm -d --name tomcat -p 8080:8080 -e "TZ=CST" -v tomcat-users.xml:/usr/local/tomcat/conf/tomcat-users tomcat:8.0.48-jre7-alpine

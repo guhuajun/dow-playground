@@ -1,0 +1,1 @@
+docker build --tag demo14:0.0.1 .
