@@ -1,0 +1,1 @@
+docker build --rm --tag greggu/tomcat7-jdk7:201805 .
