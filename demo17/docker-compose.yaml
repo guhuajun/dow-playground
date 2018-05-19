@@ -1,0 +1,15 @@
+version: "2.1"
+
+services: 
+  httpd_svc_1:
+    image: greggu/httpd:0.0.1
+    mac_address: 02:42:ac:11:65:41
+    expose:
+      - 8080
+
+  httpd_svc_2:
+    image: greggu/httpd:0.0.1
+    mac_address: 02:42:ac:11:65:42
+    expose:
+      - 8080
+  

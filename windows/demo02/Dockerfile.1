@@ -1,0 +1,11 @@
+# escape=`
+
+FROM microsoft/windowsservercore:1803
+
+SHELL [ "powershell", "-command" ]
+
+RUN $ErrorActionPreference = 'Stop'; `
+    $ProgressPreference = 'SilentlyContinue'; `
+    $null = New-Item -Path c:\demos -Type Directory
+
+RUN $null = New-Item -Path c:\demos\demo01 -Type Directory
