@@ -1,0 +1,1 @@
+docker build --rm --tag tomcat:7-jre8-python .

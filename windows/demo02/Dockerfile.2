@@ -9,3 +9,5 @@ RUN $ErrorActionPreference = 'Stop'; `
     $null = New-Item -Path c:\demos -Type Directory
 
 RUN $null = New-Item -Path c:\demos\demo02 -Type Directory
+
+CMD ["powershell"]
