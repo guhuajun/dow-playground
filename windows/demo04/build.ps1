@@ -1,0 +1,1 @@
+docker build --rm --tag greggu/msmq:0.0.1 .

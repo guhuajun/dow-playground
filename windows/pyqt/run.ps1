@@ -1,0 +1,1 @@
+docker run -d -p 5900:5900 greggu/pyqt-demo:0.0.1

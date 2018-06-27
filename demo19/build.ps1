@@ -1,0 +1,1 @@
+docker build --rm --tag greggu/demo19:1.0.0 .

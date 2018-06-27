@@ -1,0 +1,1 @@
+docker build --tag greggu/demo20:0.1 .
