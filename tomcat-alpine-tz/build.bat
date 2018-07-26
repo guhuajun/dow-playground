@@ -1,0 +1,1 @@
+docker build --tag greggu/tatz:0.1 .
