@@ -1,11 +1,5 @@
 #escape=`
 
-FROM microsoft/aspnet
-
-SHELL [ "powershell", "-command" ]
-
-RUN $ErrorActionPreference = 'Stop'; `
-    $ProgressPreference = 'SilentlyContinue';
+FROM microsoft/nanoserver:1803
     
-RUN Enable-WindowsOptionalFeature -Online -FeatureName "MSMQ" -All -LimitAccess; `
-    Enable-WindowsOptionalFeature -Online -FeatureName "MSMQ-Server" -All -LimitAccess
+COPY test.txt .
