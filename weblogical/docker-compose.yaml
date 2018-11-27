@@ -1,0 +1,9 @@
+version: "2"
+
+services: 
+  wl:
+    image: greggu/owl-sample:0.1
+    container_name: wlsadmin
+    ports: 
+      - "7001:7001"
+

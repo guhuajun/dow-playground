@@ -1,0 +1,1 @@
+docker run --rm -d -p 8080:8080 greggu/tomcat-status:0.1

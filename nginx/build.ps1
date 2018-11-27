@@ -1,0 +1,1 @@
+docker build --tag greggu/nginx:0.1 .
