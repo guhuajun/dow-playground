@@ -1,0 +1,13 @@
+version: "2"
+
+services: 
+  base:
+    image: greggu/demo22-base:0.1
+    build:
+      context: .
+      dockerfile: Dockerfile.base
+  app:
+    image: greggu/demo22-app:0.1
+    build:
+      context: .
+      dockerfile: Dockerfile.app

@@ -1,0 +1,5 @@
+FROM openjdk:8-jre
+
+RUN groupadd -r demo && useradd -d /home/demo/ --no-log-init -r -g demo demo
+
+WORKDIR /home/demo
